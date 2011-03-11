@@ -1,7 +1,12 @@
 http://store.curiousinventor.com/how-to-solder-downloadable-video.html
+
 http://www.micro-ohm.com/guide.html
+
 http://pe.ece.olin.edu/ece/handouts/050201_labref.pdf
+
 http://mit.edu/5.95/
 
+
 JST RCY connector is also known in RC circles as the BEC connector, or the P connector.
+
 http://www.jst-belgium.be/productSeries.php?pid=12605
