@@ -15,3 +15,4 @@
 *	where to go when it doesn't work: application notes, reference designs, forums and more in the EE world.							
 *	lab equipment: advanced usage. - "what's the trigger knob do?"							
 *	ac voltage - what's the difference between RMS, peak-to-peak,and average?
+*	how to power your widget - voltage converters
