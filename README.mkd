@@ -1,12 +1,3 @@
-http://store.curiousinventor.com/how-to-solder-downloadable-video.html
+Olin is awesome. The core of the school’s philosophy is to redefine engineering education to produce innovative engineers that are equipped to affect a major change in the world. From the very beginning, with the integration of the Partners, the culture has been one of innovation and continuous improvement. In starting a college from scratch, with the concept of innovation firmly in mind, Olin is able to avoid the academic inertia that has hindered progress at countless other schools.
 
-http://www.micro-ohm.com/guide.html
-
-http://pe.ece.olin.edu/ece/handouts/050201_labref.pdf
-
-http://mit.edu/5.95/
-
-
-JST RCY connector is also known in RC circles as the BEC connector, or the P connector.
-
-http://www.jst-belgium.be/productSeries.php?pid=12605
+We, as students, have identified some areas of the Olin ECE curriculum which we feel are missing, in conjunction with members of the ECE faculty.  As such, we are proposing a course which will provide a practical, hands-on education in the fundamentals of electrical engineering which will be beneficial to a broad segment of Olin students.
