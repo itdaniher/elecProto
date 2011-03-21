@@ -16,3 +16,5 @@
 *	lab equipment: advanced usage. - "what's the trigger knob do?"							
 *	ac voltage - what's the difference between RMS, peak-to-peak,and average? (http://dangerousprototypes.com/2011/03/21/true-rms-explaned/)[]
 *	how to power your widget - voltage converters
+*      how to make connectors - for bigger projects (power poles, etc. - when to use what and why you should often solder your crimp connections)
+*      10 most useful circuits for doing practical stuff (here I would have some basic op-amp circuits, current source, etc.)
