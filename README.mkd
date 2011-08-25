@@ -1,3 +1,10 @@
+## SCinciHacks
+
+[SCinciHacks](scincihacks.tumblr.com) is an upcoming buildathon taking place in Cincinnati, Ohio. As an outreach event, I'm anticipating a wide range of skillsets. I'm taking advantage of the footwork I did for elecProto, the Olin class, to develop a set of 8.5x11 documents which cover many of the topics which may be unfamiliar for highschool students in attendance.
+
+
+## Olin
+
 Olin is awesome. The core of the school’s philosophy is to redefine engineering education to produce innovative engineers that are equipped to affect a major change in the world. From the very beginning, with the integration of the Partners, the culture has been one of innovation and continuous improvement. In starting a college from scratch, with the concept of innovation firmly in mind, Olin is able to avoid the academic inertia that has hindered progress at countless other schools.
 
 We, as students, have identified some areas of the Olin ECE curriculum which we feel are missing, in conjunction with members of the ECE faculty.  As such, we are proposing a course which will provide a practical, hands-on education in the fundamentals of electrical engineering which will be beneficial to a broad segment of Olin students.
