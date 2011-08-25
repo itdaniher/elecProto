@@ -1,3 +1,7 @@
+*	serial, parallel, synchronous, and asynchronous - how to talk zeroes and ones
+*	pulse width modulation - how does it dim?
+*	numbering schemes - hex, dec, oct, and bin. when to use which?
+*	bitmath - shifts, xors, and more.
 *	whens, whys, and hows... transistors as switches - controlling big loads from tiny computers							
 *	whens, whys, and hows... H-Bridges for switching							
 *	whens, whys, and hows... protection diodes on inductive loads							
@@ -10,11 +14,10 @@
 *	orders of magnitude: estimating power draw for sensing, thinking, and doing.							
 *	orders of magnitude: estimation for prototyping.							
 *	types of microcontrollers: architectures, peripherals, and families							
-*	digital communication: data buses and moving information around							
 *	Soldering: Surface Mount, Through-Hole, Freeform. The good, bad, and ugly.							
 *	where to go when it doesn't work: application notes, reference designs, forums and more in the EE world.							
 *	lab equipment: advanced usage. - "what's the trigger knob do?"							
 *	ac voltage - what's the difference between RMS, peak-to-peak,and average? [dangerous prototypes link](http://dangerousprototypes.com/2011/03/21/true-rms-explaned/)
 *	how to power your widget - voltage converters
-*      how to make connectors - for bigger projects (power poles, etc. - when to use what and why you should often solder your crimp connections)
-*      10 most useful circuits for doing practical stuff (here I would have some basic op-amp circuits, current source, etc.)
+*	how to make connectors - for bigger projects (power poles, etc. - when to use what and why you should often solder your crimp connections)
+* 	10 most useful circuits for doing practical stuff (here I would have some basic op-amp circuits, current source, etc.)
