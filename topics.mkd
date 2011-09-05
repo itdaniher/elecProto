@@ -25,8 +25,9 @@
 * Soldering: Surface Mount, Through-Hole, Freeform. The good, bad, and ugly.
 * where to go when it doesn't work: application notes, reference designs, forums and more in the EE world.
 * lab equipment: advanced usage. - "what's the trigger knob do?"
-* ac voltage - what's the difference between RMS, peak-to-peak,and average? [dangerous prototypes link](http://dangerousprototypes.com/2011/03/21/true-rms-explaned/)
+* ac voltage - what's the difference between RMS, peak-to-peak,and average?
+	* [dangerous prototypes link](http://dangerousprototypes.com/2011/03/21/true-rms-explaned/)
 * how to power your widget - voltage converters
 * how to make connectors - for bigger projects (power poles, etc. - when to use what and why you should often solder your crimp connections)
-* 10 most useful circuits for doing practical stuff (here I would have some basic op-amp circuits, current source, etc.)
+* practical circuits 
 	* [relaxation oscillator](http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/square.html)
