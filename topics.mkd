@@ -29,4 +29,4 @@
 * how to power your widget - voltage converters
 * how to make connectors - for bigger projects (power poles, etc. - when to use what and why you should often solder your crimp connections)
 * 10 most useful circuits for doing practical stuff (here I would have some basic op-amp circuits, current source, etc.)
-	* relaxation oscillator
+	* [relaxation oscillator](http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/square.html)
