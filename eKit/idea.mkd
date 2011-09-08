@@ -1,9 +1,9 @@
-===High Level===
+###High Level
 
 Building off the legacy left by RadioShack's ScienceFair 160-in-One kits, we're assembling a curriculum to convey the fundementals of practical electronics in a manner that leverages the CEE to facilitate exploratory learning.
 
 
-===Concepts===
+###Concepts
 
 * introduction to the CEE and scientific units of measurement
 * introduction to the water analogy and voltage/current
@@ -22,7 +22,7 @@ Building off the legacy left by RadioShack's ScienceFair 160-in-One kits, we're 
 * opamps as oscillators
 * opamps as amplifiers
 
-===Parts===
+###Parts
 
 * 5k, 10k linear single-turn thumb-wheel potentiometer
 	* 3352P-1-502LF
