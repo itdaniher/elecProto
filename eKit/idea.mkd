@@ -1,0 +1,39 @@
+===High Level===
+
+Building off the legacy left by RadioShack's ScienceFair 160-in-One kits, we're assembling a curriculum to convey the fundementals of practical electronics in a manner that leverages the CEE to facilitate exploratory learning.
+
+
+===Concepts===
+
+* introduction to the CEE and scientific units of measurement
+* introduction to the water analogy and voltage/current
+* resistors in series and parallel
+* common uses of resistors
+* capacitors store charge
+* common uses of capacitors
+* the behavior of resistor-capacitor and capacitor-resistor circuits
+* resistor-capacitor circuits as filters
+* diodes as one-way valves
+* transistors as one-way valves
+* transistors as switches
+* transistors as amplifiers
+* transistors as oscillators
+* opamps as comparators
+* opamps as oscillators
+* opamps as amplifiers
+
+===Parts===
+
+* 5k, 10k linear single-turn thumb-wheel potentiometer
+	* 3352P-1-502LF
+	* 3352P-1-102LF
+* dual NPN and PNP transitor arrays for well-matchedness
+	* PBSS4021SN
+	* PBSS4021SP
+* RGB LED
+* dual RRIO opamp with low offsets and audio capabilities
+	* AD8606
+	* LMC6482
+* temperature sensors
+	* TMP36
+* CDS

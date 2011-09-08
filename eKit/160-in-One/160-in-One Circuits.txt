@@ -1,0 +1,200 @@
+160-In-1 Electronic Project Lab
+(280-0258)                      Included Projects      Faxback Doc. # 59115
+
+I.	ENTERTAINMENT CIRCUITS
+
+  Light Circuits and Games
+
+1.	Electronic Candle
+2.	"The Big Ear"
+3.	Electronic Reflex Tester
+4.	Machine Gun Pulse Oscillator
+5.	Rapid LED Display Switching (Persistence of Vision Test)
+6.	Light Oriented Direction Finder
+7.	CdS Cell Target Practice
+8.	Quick Draw
+
+  Special Sound Effects
+
+9.	Electronic Woodpecker
+10.	Electronic Cat
+11.	Electronic Motorcycle
+12.	Two-Tone Patrol Car Siren
+13.	Electronic Siren
+14.	Electronic Metronome
+15.	Electronic Grandfather Clock
+16.	Light-Controlled Electronic Harp
+17.	Sleep Machine
+18.	The Chirping Bird
+19.	"Horror Movie" Sound Effects
+
+II.	NATURAL SCIENCE EXPERIMENTS
+
+20.	Coin Battery
+21.	Electronic Thermometer
+22.	Solar Powered Light Meter
+23.	CdS Cell Light Meter with Transistor Amplifier
+24.	Solar Cell and CdS Cell Light Meter
+25.	Super-Sensitive Light Meter
+26.	Sonic Fish Caller
+27.	Hygrometer (Relative Humidity Gauge)
+28.	Lie Detector
+29.	Rain Detector
+30.	Metal Detector
+31.	Accelerometer
+32.	Water Quality Checker
+
+III.	LED DIGITAL DISPLAY CIRCUITS
+
+33.	Seven-Segment LED Digital Display Circuit
+34.	Basic LED Display
+35.	Transistor Control Switching of the LED Display
+36.	Transistor, CDS Cell and LED Display Circuit
+
+IV.	BASIC ELECTRONIC COMPONENTS AND CIRCUITS
+
+37.	Graphing a Variable Resistance
+38.	Resistors in Series and Parallel
+39.	Capacitors Charge and Discharge
+40.	Capacitor as a Spark Suppressor
+41.	Transformer Experiment
+42.	Generation of Electrical Energy
+43.	High Voltage Generator
+44.	High Voltage Generator II 
+45.	Capacitor Discharge High Voltage Generator
+
+V.	BASIC SEMICONDUCTOR CIRCUITS
+
+46.	Diode Action or Diode Switching
+47.	Diode Circuit Function with Switch and LED Display
+48.	Transistor Circuit Action
+49.	Hearing Aid Amplifier
+50.	Regulated Power Supply
+51.	Voltage Regulator Circuit
+
+VI.	COMPUTER AND LOGIC CIRCUITS
+
+52.	Logic 'AND' Circuit with Switches
+53.	Logic 'OR' Circuit with Switches
+54.	Logic 'NOR' Circuit (Part 1)
+55.	Logic 'NOR' Circuit (Part 2)
+56.	Logic 'AND' with LED Display
+57.	Logic 'OR' with LED Display
+58.	Logic 'NAND' with LED Display
+59.	Logic 'NOR' with LED Display
+60.	One-Shot Multivibrator
+61.	Reset/Set Flip-Flop
+62.	Flip-Flop with LED Display
+63.	Flip-Flop LED/Lamp Display
+64.	Multivibrator switching of LED Display with Diodes
+65.	Toggle Flip-Flop
+66.	Exclusive OR Logic Circuit
+
+VII. 	OSCILLATORS
+
+67.	Coin Battery Audio Oscillator
+68.	Oscillator with Turn-Off Delay
+69.	Temperature-Sensitive Audio Oscillator
+70.	Capacitive Charge Oscillator
+71.	Two-Transistor, Direct-Coupled Oscillator
+72.	Push/Pull Square Wave Oscillator
+73.	Micro-Power Solar Cell Oscillator
+74.	Micro-Powered Solar Cell Oscillator with Speaker
+75.	Pencil Lead Organ
+76.	LED Strobe Light
+77.	Electronic Organ
+
+VIII.	SWITCHING AND CONTROL CIRCUITS
+
+78.	Light Controlled Switch with CdS Cell
+79.	Light Controlled Switch with Solar Cell
+80.	Sensitive Light Controlled Switch
+81.	Electronic Touch Switch
+82.	VOX - Voice Operated (Transmit) Relay
+83.	Voice Controlled Switch
+84.	Transistor Switcher
+85.	Electronic Switching Relay
+86.	Relay Latching Circuit
+87.	Supersensitive Relay or Sensitive Electronic Voltmeter
+88.	Relay Light Flasher
+89.	Delay Switching Circuits
+90.	Transistor Delay Circuit Using RC Time Constant
+91.	DC-to-DC Converter
+92.	Lamp Blinker Circuit
+93.	Mechanical Copper (DC-to-DC Converter)
+94.	Momentary ON Call Switch
+95.	Light Dimmer
+96.	Light Controlled Blinker
+
+IX.	ALARM, WARNING AND PROTECTION CIRCUITS
+
+97.	"Crack of Dawn" Alarm Clock
+98.	Daylight Bird or "Early Bird"
+99.	Closed Loop Burglar Alarm
+100.	Water Level Alarm
+101.	Light Activated Wireless Burglar Alarm
+102.	Light Controlled Burglar Alarm
+103.	Relay and Speaker Buzzer
+104.	Light Receiver or Light Alarm
+105.	CdS Controlled IC Oscillator
+106.	Burglar Alarm with a Latching Relay
+107.	One Touch Alarm
+108.	Alarm Sound Generator
+109.	Three Step Water Level Indicator
+110.Night Light
+
+X. 	COMMUNICATIONS CIRCUITS
+
+111.	Wire Type Light Signaler with Monitor
+112.	Code Sounder
+113.	Single Wire Communications System
+114.	Code Practice Oscillator with Tone Control
+115.	IC Morse Code Practice Oscillator
+116.	Solar Powered Code Practice Oscillator
+117.	Crystal Set Radio (Simple Diode Radio)
+118.	Automatica Light Activated Radio
+119.	One Transistor Radio with Diode
+120.	Solar Powered Radio
+121.	Two Transistor Radio
+122.	Transistor Radio with RF Amplifier
+123.	Coin Battery Operated Radio
+124.	Two Transistor Radio with Transformers
+125.	Spark Gap Transistor
+126.	Wireless Code Transmitter
+127.	AM Radio Station
+128.	Modulated CW Transmitter
+129.	Tone Modulated Transmitter
+130.	Solar Telemetry
+131.	IC Radio
+
+XI. 	TEST CIRCUITS
+
+132.	Continuity Tester
+133.	Aural Continuity Tester
+134.	Series Type Ohmmeter
+135.	Shunt Type Ohmmeter
+136.	Isolation Checker
+137.	Wheatstone Bridge
+138.	Capacitance Bridge
+139.	Battery Voltmeter Tester
+140.	Audio Output Meter
+141.	Low Frequency Response Audio Level Meter
+142.	IC VU Meter
+143.	Meter Amplifier
+144.	Transistorized DC Voltmeter
+145.	AC Voltmeter
+146.	Transistor Checker
+147.	Semiconductor Tester
+148.	Sinewave Audio Oscillator
+149.	Low Distortion Sinewave Oscillator
+150.	Twin-T Audio Oscillator
+151.	Variable Audio Oscillator
+152.	Pulse Oscillator Tone Generator
+153.	IC Oscillator/Component Tester
+154.	Light Hum and Noise Detector
+155.	Audio Signal Tracer
+156. 	Radio Frequency Signal Tracer
+157. 	Square Wave Audio Oscillator
+158.	RF Signal Meter
+159. 	Sawtooth Wave Oscillator
+160.	Transistor Beta Checker

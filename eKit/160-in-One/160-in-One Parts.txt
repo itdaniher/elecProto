@@ -1,0 +1,72 @@
+280-0258       160-1 LAB                             Faxback Doc. # 22608
+
+To order parts call 1-800-843-7422 or visit your local RadioShack store.
+
+Reference #             Cat.No.   Description                NP Part #
+------------------------------------------------------------------------
+                        11318524  DIODE 1N4001 RECT 600V SI  1N4001     
+                        11319340  REPLACED BY DX-0162        1N60       
+                        11319373                             1N60P      
+                        11329794  REPLACED BY 2TR0158        2SA733     
+                        10519239  REPLACED BY 2TR0698        2SC945     
+                                                             2TR0698    
+                                  W/5 LEADS                  A0291      
+                        10539260  ANTENNA,BAR ASSY           A0304      
+                                  BATTERY HOLDER FOR 2AA PE  B0166      
+                                  CLIP,BATTERY               B0172      
+                                  USE JE0213                 B0209      
+                        11449808  BA306 ANALOG SW            BA306      
+                        10556264  CAP TUNING                 C4242      
+                                  REPLACED BY A0304          CA0619     
+                                  REPLACED BY CC101JJBCB     CC101JJBC  
+                        10571776  PKG OF 5                   CC101JJBCB 
+                                  REPLACED BY CC102JJBCB     CC102JJBC  
+                        10571826  PKG OF 5                   CC102JJBCB 
+                        10571958  PKG OF 10                  CC103JJBCC 
+                        10572196  PKG OF 5                   CC104JJBCB 
+                        10572451  10UF    +-20    16V   ALP  CC106MDCA  
+                        10572550  PKG OF 5                   CC107KCBAB 
+                                  PIPE CDS                   CS0028     
+                        10586188  CELL SOLAR MSC-0753        CS0099     
+                                  CELL CDS KS85S             CS0100     
+                        10637379  EARPHONE                   E0007      
+                                  HOLDER BAR ANTENNA         H1535      
+                                  SOCKET SIGNAL LAMP         HB0535     
+                                  TERMINAL,SPRING,BAG OF 10  HB4804     
+                                  BLUE                       HC1709     
+                                  LEVER KEY                  HC1710     
+                        10740520  STORE STOCK UNDER 270-324  JE0213     
+                                  KNOB FOR TUNING CAPACITOR  K0669      
+                                  KNOB VAR RES               K5073      
+                                  MORSE CODE                 K5074      
+                        10794295  LAMP RED                   L0541      
+                                  LED 7 SEGMENT              L0739      
+                                  METER                      M0294      
+                        10852291  MANUAL USERS 28-258        MU2800258  
+                                  BA302 AMP                  MX3039     
+                        10940187  100   5%    1/4W  CBF RES  N0132EEC   
+                        10941029  470   5%    1/4W  CBF RES  N0169EEC   
+                        10941342  1K    5%    1/4W  CBF RES  N0196EEC   
+                        10941680  2.2K  5%    1/4W  CBF RES  N0216EEC   
+                        10942118  4.7K  5%    1/4W  CBF RES  N0247EEC   
+                        10942498  10K   5%    1/4W  CBF RES  N0281EEC   
+                        10942985  22K   5%    1/4W  CBF RES  N0311EEC   
+                                  REPLACED BY N0340EECC      N0340EEC   
+                        10943249  PKG OF 10                  N0340EECC  
+                        10943611  100K  5%    1/4W  CBF RES  N0371EEC   
+                                  220K  5%    1/4W  CBF RES  N0396EEC   
+                                  RES CAR F 360K 5% 1/4W     N0412EEC   
+                                  470K  5%    .25W  CBF      N0423EEC   
+                        10971364  POT VARIABLE               P1656      
+                        10985802  RELAY 225 OHM 9V           R8158      
+                                  SWITCH SLIDE               S2241      
+                                  SPEAKER REMOTE             S4565      
+                        11106069  TRANSFORMER INPUT          TD0097     
+                        11106077  TRANSFORMER OUTPUT         TD0136     
+                                  CORD,ANTENNA               W1587      
+                        11114923  BLACK-380MM                W3320      
+                                  BLANK,PCB FOR LED          X7159      
+                                  BOX WOOD                   Z3245      
+                                  PANEL FRONT PLASTIC        Z6408      
+
+(This list was generated on 07/08/2005)
