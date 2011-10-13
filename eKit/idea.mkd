@@ -9,18 +9,40 @@ Building off the legacy left by RadioShack's ScienceFair 160-in-One kits, we're 
 * introduction to the water analogy and voltage/current
 * resistors in series and parallel
 * common uses of resistors
+	* pull-up
+	* pull-down
+	* current-limiter
+	* voltage-divider
 * capacitors store charge
 * common uses of capacitors
 * the behavior of resistor-capacitor and capacitor-resistor circuits
-* resistor-capacitor circuits as filters
+	* time constants, low pass, high pass
 * diodes as one-way valves
 * transistors as one-way valves
 * transistors as switches
 * transistors as amplifiers
 * transistors as oscillators
 * opamps as comparators
-* opamps as oscillators
+	* I. "The output attempts to do whatever is necessarily to make the voltage difference between the inputs zero."
+		* This is realized by extremely high gain, allowing opamps to be used to determine which of two voltages is higher.
+		* This extremely high gain necessitates the use of [negative] feedback in most applications.
+	* II. "The inputs draw no current."
+* comparators as oscillators
+	* [relaxation oscillator](http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/square.html) - one opamp, three resistors, one capacitor 
 * opamps as amplifiers
+
+
+###NonLinear
+
+* relaxation oscillator
+	* voltage divider
+	* comparator
+	* behavior of opamp
+	* opamp as comparator
+* speaker bode plots
+	* effort / flow
+	* mathematical relationship between mass/spring and resistor/inductor systems
+	* change mass by adding hotglue?
 
 ###Parts
 

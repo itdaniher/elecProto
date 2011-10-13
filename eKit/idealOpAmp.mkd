@@ -1,0 +1,6 @@
+* infinite input impedance
+* zero output impedance
+* infinite voltage gain
+* zero common-mode voltage gain
+* zero offset voltage
+* infinite slew rate
