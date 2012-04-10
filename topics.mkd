@@ -1,33 +1,48 @@
+### digital 
+
+* types of microcontrollers: architectures, peripherals, and families
+ * buzzword bingo - RISC / Harvard / PIC / ARM / "memory mapped" 
 * serial, parallel, synchronous, and asynchronous - how to talk zeroes and ones
 * pulse width modulation - how does it dim?
 * numbering schemes - hex, dec, oct, and bin. when to use which?
 * bitmath - shifts, xors, and more.
+
+
+### analog
+
 * whens, whys, and hows... switching
-	* transistors
-		* FET
-		* BJT / darlington
-	* h-bridge
-	* relays
+ * transistors
+  * FET
+  * BJT / darlington
+ * h-bridge
+ * relays
+* ac voltage - what's the difference between RMS, peak-to-peak,and average?
+ * [dangerous prototypes link](http://dangerousprototypes.com/2011/03/21/true-rms-explaned/)
+* how to power your widget - voltage converters
+ * buck
+ * boost
+ * LDO
+* data conversion
+ * ADC / DAC terminology
+  * DNL / INL / basic math
+
+### hands-on / experience
+
 * whens, whys, and hows... protection diodes on inductive loads
 * whens, whys, and hows... pull-up, pull-down, current limiting, and voltage-dividing resistors
 * whens, whys, and hows... different types of motors
-	* brushed
-	* brushless
-	* hobby servo
-	* stepper
-* whens, whys, and hows... Datasheets: relevant info from 40 pages on a resistor
+ * brushed
+ * brushless
+ * hobby servo
+ * stepper
+* whens, whys, and hows... datasheets: relevant info from 40 pages on a resistor
 * whens, whys, and hows... prototyping techniques from breadboard to wirewrap
 * whens, whys, and hows... circuit board design and fabrication
-* whens, whys, and hows... 74xxx series digital logic chips for simple applications
 * orders of magnitude: estimating power draw for sensing, thinking, and doing.
 * orders of magnitude: estimation for prototyping.
-* types of microcontrollers: architectures, peripherals, and families
-* Soldering: Surface Mount, Through-Hole, Freeform. The good, bad, and ugly.
+* Soldering: surface mount, through-hole, freeform
+ * hot air rework
+ * SMD reflow
 * where to go when it doesn't work: application notes, reference designs, forums and more in the EE world.
 * lab equipment: advanced usage. - "what's the trigger knob do?"
-* ac voltage - what's the difference between RMS, peak-to-peak,and average?
-	* [dangerous prototypes link](http://dangerousprototypes.com/2011/03/21/true-rms-explaned/)
-* how to power your widget - voltage converters
-* how to make connectors - for bigger projects (power poles, etc. - when to use what and why you should often solder your crimp connections)
-* practical circuits 
-	* [relaxation oscillator](http://hyperphysics.phy-astr.gsu.edu/hbase/electronic/square.html)
+ * use of Saleae logic analyzer, CEE, etc
